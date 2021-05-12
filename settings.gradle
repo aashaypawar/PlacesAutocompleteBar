@@ -1,0 +1,2 @@
+rootProject.name = "PlacesAutocompleteBar"
+include ':app'
